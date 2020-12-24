@@ -1,9 +1,9 @@
 # Polytopia_tr
-Bu proje Animus Projesi tarafından gönüllü yapılmış bir proje olup Battle of Polytopia oyununu Türkçeye çevirir.
+Bu proje Animus Projesi tarafından gönüllü yapılmış bir proje olup Battle of Polytopia oyununu Türkçeye çevirir. Türkçe hâle getirmek için:
 
-Proje Yönetisi
-- Karabibik
+Options -> Advanced Options -> Language -> Custom
 
-Çevirmenler
-- 7Pacer
+yoluna gidip şu bağlantıyı yapıştırmanız yeterli: https://raw.githubusercontent.com/Karabibik/Polytopia_tr/main/tr_TR.json
+
+Hazırlayan
 - Karabibik
